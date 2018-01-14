@@ -1,4 +1,4 @@
-# ResposiveWebSite
+# Responsive WebSite
 A Simple Resposive Website built using HTML and CSS
 
 How to USE:
